@@ -30,7 +30,7 @@
 
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C079%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C159%20hrs-blue)
 
 📊 **This Week I Spent My Time On**
 
