@@ -15,6 +15,7 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25"/></a>
+  <a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="25" height="25"/></a>
 </p>
 
 #### Frameworks and Libraries
@@ -29,6 +30,8 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 
 <p>
   <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="25" height="25"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="25" height="25"/></a>
+  <a href="https://www.mysql.com/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="25" height="25"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" height="25"/></a>
 </p>
 
@@ -43,9 +46,9 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 
 ### 🎯 Fun Facts
 
-- 🌍 I love exploring new technologies and integrating AI with IoT devices.
-- 📚 In my free time, I enjoy reading about data science and data engineering.
-- 🏊‍♂️ I'm an avid swimmer and often participate in chess tournaments.
+- 🌍🤖 I love exploring new technologies and integrating AI with IoT devices.
+- 📚 In my free time, I enjoy reading about data science and data engineering 🤓.
+- 🏊‍♂️ I'm an avid swimmer and often participate in chess tournaments 🏆.
 
 ### 📫 Get in Touch
 
