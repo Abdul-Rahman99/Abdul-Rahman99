@@ -5,8 +5,8 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 ### 🚀 Projects
 
 - **[mngar.ae](https://mngar.ae/):** A website controlling and managing IoT devices to feed birds and deer using AI technology in the UAE.
-- **ghazaal.dccme.ai:** A project focused on utilizing AI for wildlife conservation.
-- **Ahln Box:** Full backend development for a new IoT device idea in the Gulf region, providing innovative solutions with Node.js, Express, React, and PostgreSQL.
+- **[dhebaa.ae](https://dhebaa.ae/):** A project focused on utilizing AI for wildlife conservation.
+- **[ahln.ae](https://ahln.ae/):** Full backend development for a new IoT device idea in the Gulf region, providing innovative solutions with Node.js, Express, React, and PostgreSQL.
 
 ### 🛠️ Languages and Tools:
 
@@ -44,11 +44,11 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 ### 🎯 Fun Facts
 
 - 🌍 I love exploring new technologies and integrating AI with IoT devices.
-- 📚 In my free time, I enjoy reading about space science and machine learning.
-- 🏃‍♂️ I'm an avid runner and often participate in marathons across Dubai.
+- 📚 In my free time, I enjoy reading about data science and data engineering.
+- 🏊‍♂️ I'm an avid swimmer and often participate in chess tournaments.
 
 ### 📫 Get in Touch
 
 - LinkedIn: [Abdulrahman Osman](https://www.linkedin.com/in/abdelrahman-ashraf-osman-407467205/)
 - Twitter: [@AbKhattap](https://twitter.com/AbKhattap)
-- Email: abdelrahman.osman@example.com
+- Email: abdelrahmanAosman99@gmail.com
