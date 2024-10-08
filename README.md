@@ -49,7 +49,7 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 
 ### 🎯 Fun Facts
 
-- 🌍 I love exploring new technologies and integrating Backend with Ai and IoT devices 🤖.
+- 🌍 I love exploring new technologies and integrating Web Services with Ai and IoT devices 🤖.
 - 📚 In my free time, I enjoy reading about data science and data engineering 🤓.
 - 🏊‍♂️ I'm an avid swimmer and often participate in chess tournaments 🏆.
 
