@@ -1,49 +1,54 @@
-### Hey 👋🏽, I'm [Abdulrahman!](https://www.linkedin.com/in/abdelrahman-ashraf-osman-407467205/)
+### Hey there 👋🏽, I'm Abdulrahman!
 
-<br/>
+I'm a passionate software engineer based in Dubai, UAE, with a focus on backend development, IoT integrations, and creating efficient solutions for complex problems. I have experience working with Node.js, React, Express, and PostgreSQL, and I'm always excited to learn new technologies and work on innovative projects.
 
-<a href="https://twitter.com/AbKhattap">
-  <img align="left" alt="gavin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abdelrahman-ashraf-osman-407467205/">
-  <img align="left" alt="gavin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### 🚀 Projects
 
-<a href="https://visitor-badge.laobi.icu/badge?page_id=gavindsouza.visitor-badge"></a>
+- **[mngar.ae](https://mngar.ae/):** A website controlling and managing IoT devices to feed birds and deer using AI technology in the UAE.
+- **ghazaal.dccme.ai:** A project focused on utilizing AI for wildlife conservation.
+- **Ahln Box:** Full backend development for a new IoT device idea in the Gulf region, providing innovative solutions with Node.js, Express, React, and PostgreSQL.
 
-<br />
+### 🛠️ Languages and Tools:
 
-**Languages and Tools:**
+#### Programming Languages
 
-<p align="left">
-<a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="typescript" width="20" height="20"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="20" height="20"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a>
-<a href="https://expressjs.com/"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></a>
-<a href="https://react.dev/" target="_blank"> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25"/></a>
 </p>
 
-[![Abdulrahman's github stats](https://github-readme-stats-kappa-six.vercel.app/api?username=Abdul-Rahman99&show_icons=true&hide_border=true&theme=radical)](#)
+#### Frameworks and Libraries
 
-<!--START_SECTION:waka-->
+<p>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" height="25"/></a>
+  <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"/></a>
+</p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs-blue)
+#### Databases and Tools
 
-📊 **This Week I Spent My Time On**
+<p>
+  <a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="25" height="25"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="25" height="25"/></a>
+</p>
 
-```text
-💬 Programming Languages:
-NodeJS                   23 hrs 00 mins       ████████████████░░░░░░░░░   63.00 %
-ReactJS                  11 hrs 00 mins       ███████░░░░░░░░░░░░░░░░░░   31.00 %
-PostgreSQL               45 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-TypeScript               30 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-ExpressJS                20 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-JSON                     10 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-```
+### ⚡ Recent GitHub Activity
 
-Last Updated on 04/05/2024 00:55:46 UTC
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<!--END_SECTION:waka-->
+### 📈 GitHub Contributions
+
+[![Abdulrahman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rahman99&theme=radical)](https://git.io/streak-stats)
+
+### 🎯 Fun Facts
+
+- 🌍 I love exploring new technologies and integrating AI with IoT devices.
+- 📚 In my free time, I enjoy reading about space science and machine learning.
+- 🏃‍♂️ I'm an avid runner and often participate in marathons across Dubai.
+
+### 📫 Get in Touch
+
+- LinkedIn: [Abdulrahman Osman](https://www.linkedin.com/in/abdelrahman-ashraf-osman-407467205/)
+- Twitter: [@AbKhattap](https://twitter.com/AbKhattap)
+- Email: abdelrahman.osman@example.com
