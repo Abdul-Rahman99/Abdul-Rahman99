@@ -58,3 +58,4 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 - LinkedIn: [Abdulrahman Osman](https://www.linkedin.com/in/abdelrahman-ashraf-osman-407467205/)
 - Twitter: [@AbKhattap](https://twitter.com/AbKhattap)
 - Email: abdelrahmanAosman99@gmail.com
+- WhatsApp: [+9710527048530](https://wa.me/9710527048530) or [+201126785264](https://wa.me/201126785264)
