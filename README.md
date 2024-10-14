@@ -6,7 +6,7 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 
 - **[mngar.ae](https://mngar.ae/ "_blank"):** A website controlling and managing IoT devices to feed birds using AI technology in the UAE.
 - **[dheba.ae](https://dheba.ae/ "_blank"):** A website controlling and managing IoT devices to feed wild animals and deers using AI technology in the UAE, Dubai Al marmoom Sanctuary.
-- **[ahln.ae](https://ahln.ae/ "_blank"):** Full backend development for infrastructure of the boxes, and forntend dashboard development for admins (A new IoT device idea in the Gulf region) providing innovative solutions with Node.js, Express, React, and PostgreSQL.
+- **[ahln.ae](https://ahln.ae/ "_blank"):** Full backend development for infrastructure of the boxes, and forntend dashboard development for admins (A new IoT devices idea in the Gulf region) providing innovative solutions with Node.js, Express, React, and PostgreSQL.
 
 ### 🛠️ Languages and Tools:
 
