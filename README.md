@@ -45,7 +45,7 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
 
 ### 📈 GitHub Contributions
 
-[![Abdulrahman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rahman99&theme=radical)](https://git.io/streak-stats)
+[![Abdulrahman's GitHub Streak](https://streak-stats.demolab.com/?user=Abdul-Rahman99&theme=radical)](https://git.io/streak-stats)
 
 ### 🎯 Fun Facts
 
