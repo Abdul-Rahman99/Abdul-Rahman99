@@ -32,7 +32,7 @@ I'm a passionate software engineer based in Dubai, UAE, with a focus on backend 
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/></a>
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" height="25"/></a>
   <a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"/></a>
-  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="25" height="25"/></a>
+  <a href="https://docs.nestjs.com/"><img src="https://github.com/nestjs/nest/raw/master/sample/24-serve-static/client/logo.svg" alt="NestJS" width="25" height="25"/></a>
   <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="25" height="25"/></a>
   <a href="https://jasmine.github.io/"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="Jasmine" width="25" height="25"/></a>
 </p>
